@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 298.0, 175.0, 1310.0, 793.0 ],
+		"rect" : [ 389.0, 114.0, 1310.0, 793.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -826,7 +826,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -2947,7 +2946,7 @@
 					"patching_rect" : [ 11.0, 301.0, 490.0, 66.5 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 1,
-					"size" : 3,
+					"size" : 7,
 					"slidercolor" : [ 0.67, 0.67, 0.67, 1.0 ],
 					"spacing" : 1
 				}
@@ -2970,7 +2969,7 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 548.25, 463.5, 40.0, 40.0 ]
+					"patching_rect" : [ 541.25, 462.5, 40.0, 40.0 ]
 				}
 
 			}
@@ -3029,7 +3028,7 @@
 					"cursor_size" : 3,
 					"cursor_sizeunit" : 0,
 					"cursor_visible" : 1,
-					"domain_bounds" : [ 0.0, 72184.052083333328483 ],
+					"domain_bounds" : [ 0.0, 61309.375 ],
 					"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"domainruler_grid" : 0,
@@ -3329,7 +3328,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-72", 1 ],
-					"midpoints" : [ 875.5, 457.0, 578.75, 457.0 ],
+					"midpoints" : [ 875.5, 457.0, 571.75, 457.0 ],
 					"order" : 1,
 					"source" : [ "obj-54", 0 ]
 				}
@@ -3338,7 +3337,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-72", 0 ],
-					"midpoints" : [ 875.5, 456.0, 557.75, 456.0 ],
+					"midpoints" : [ 875.5, 456.0, 550.75, 456.0 ],
 					"order" : 2,
 					"source" : [ "obj-54", 0 ]
 				}
